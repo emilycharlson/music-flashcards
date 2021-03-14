@@ -2,7 +2,7 @@
 
 ## Description 
 
-An educational app that enables users to practice identifying note names on the grand staff and the piano.  The app features two settings: #‘Practice’ and ‘Challenge’
+An educational app that enables users to practice identifying note names on the grand staff and the piano.  The app features two settings: ‘Practice’ and ‘Challenge’
 
 ## Overview
 
